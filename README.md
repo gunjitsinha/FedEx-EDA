@@ -22,6 +22,7 @@ Shipment records managed by FedEx between 2005–2015, covering global vaccine a
 
 ## Tools & Libraries
 - Python
+- SQLite
 - Pandas, NumPy
 - Matplotlib, Seaborn, Plotly
 - Regex
